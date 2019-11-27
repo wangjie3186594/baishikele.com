@@ -1,0 +1,146 @@
+/* line 2, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\000032}}
+.box .content {
+  position: relative;
+}
+/* line 4, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\000034}}
+.box .content .content_l {
+  background: #fff;
+  padding: calc(20px + env(safe-area-inset-top)) calc(16px + env(safe-area-inset-right)) 12px calc(16px + env(safe-area-inset-left));
+}
+/* line 8, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\000038}}
+.box .content .content_l .big_title h2 {
+  font-size: 22px;
+  line-height: 1.4;
+  margin-bottom: 14px;
+}
+/* line 14, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\0000314}}
+.box .content .content_l .small_title {
+  position: relative;
+  z-index: 1;
+  margin-bottom: 22px;
+  line-height: 20px;
+  font-size: 0;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+/* line 23, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\0000323}}
+.box .content .content_l .small_title span a {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 10px 10px 0;
+  font-size: 15px;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  color: #576b95;
+}
+/* line 32, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\0000332}}
+.box .content .content_l .small_title em {
+  font-weight: normal;
+  color: rgba(0, 0, 0, 0.3);
+  font-size: 15px;
+}
+/* line 38, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\0000338}}
+.box .content .content_l .img_content {
+  overflow: hidden;
+  color: #333;
+  font-size: 17px;
+  word-wrap: break-word;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+       hyphens: auto;
+  text-align: justify;
+  position: relative;
+  z-index: 0;
+}
+/* line 49, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\0000349}}
+.box .content .content_l .img_content * {
+  max-width: 100%;
+  box-sizing: border-box !important;
+  -webkit-box-sizing: border-box !important;
+  word-wrap: break-word !important;
+}
+/* line 55, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\0000355}}
+.box .content .content_l .img_content .one_gif {
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: top;
+  background-position: 0% 0%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: scroll;
+  background-image: url(../assets/image/640.gif);
+  -webkit-tap-highlight-color: transparent;
+}
+/* line 66, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\0000366}}
+.box .content .content_l .img_content .two_gif {
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: top;
+  background-position: 0% 0%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: scroll;
+  background-image: url(../assets/image/641.gif);
+  -webkit-tap-highlight-color: transparent;
+}
+/* line 77, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\0000377}}
+.box .content .content_l .img_content .three_gif {
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: top;
+  background-position: 0% 0%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: scroll;
+  background-image: url(../assets/image/642.gif);
+  -webkit-tap-highlight-color: transparent;
+}
+/* line 88, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\0000388}}
+.box .content .content_l .img_content .back {
+  background-image: url(../assets/image/644.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: scroll;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* line 98, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\0000398}}
+.box .content .content_l .img_content .back1 {
+  background-image: url(../assets/image/647.jpg);
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: scroll;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* line 108, 01.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/DELL\/Desktop\/1\/css\/01\.less}line{font-family:\00003108}}
+.box .content .content_l .img_content .fore_back {
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: top;
+  background: url(../assets/image/650.jpg);
+  background-position: 0% 0%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: scroll;
+  -webkit-tap-highlight-color: transparent;
+}
+/*# sourceMappingURL=01.css.map */
